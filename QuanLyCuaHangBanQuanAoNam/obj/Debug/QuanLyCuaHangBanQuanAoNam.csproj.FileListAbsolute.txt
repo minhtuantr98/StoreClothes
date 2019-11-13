@@ -1,0 +1,81 @@
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.exe.config
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.exe
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.pdb
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Login.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.exe
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.pdb
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.BaoCaoSanPhamTonKho.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.DoanhThuTheoNhanVien.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.DoanhThuTheoThoiGian.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.LapHoaDon.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.PhieuNhapHang.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemChiTietHang.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemKhachHang.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemNhaCungCap.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemNhanVien.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.TimKiemMatHang.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.UpdateNhaCungCap.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.UpdateNhanVien.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Menu2.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.NhaCungCap.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.NhanVien.resources
+C:\Users\HP\OneDrive\Desktop\Đồ án PTTKHT - Cô Hân\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.btmTim.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.exe.config
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.exe
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.pdb
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csprojAssemblyReference.cache
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.BaoCaoSanPhamTonKho.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.DoanhThuTheoNhanVien.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.DoanhThuTheoThoiGian.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.LapHoaDon.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Login.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.NhanVien.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.PhieuNhapHang.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Menu2.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.NhaCungCap.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Properties.Resources.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemChiTietHang.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemKhachHang.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemNhaCungCap.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemNhanVien.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.btmTim.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.TimKiemMatHang.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.UpdateNhaCungCap.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.UpdateNhanVien.resources
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csproj.GenerateResource.cache
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csproj.CoreCompileInputs.cache
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.exe
+D:\đồ án pttkht\Đồ án pttkht-20190528T040038Z-001\Đồ án pttkht\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.pdb
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.exe.config
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.exe
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\bin\Debug\QuanLyCuaHangBanQuanAoNam.pdb
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.BaoCaoSanPhamTonKho.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.DoanhThuTheoNhanVien.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.DoanhThuTheoThoiGian.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.LapHoaDon.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Login.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.NhanVien.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.PhieuNhapHang.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Menu2.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.NhaCungCap.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Properties.Resources.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemChiTietHang.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemKhachHang.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemNhaCungCap.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThemNhanVien.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.btmTim.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.TimKiemMatHang.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.UpdateNhaCungCap.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.UpdateNhanVien.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.exe
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.pdb
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.ThongKeLuongNhanVien.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.InPhieuNhapHang.resources
+C:\Users\dell\Desktop\QuanLyCuaHangBanQuanAoNam\QuanLyCuaHangBanQuanAoNam\obj\Debug\QuanLyCuaHangBanQuanAoNam.Forms.InHoaDon.resources
